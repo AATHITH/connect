@@ -1,1 +1,5 @@
 theme: jekyll-theme-modernist
+github:
+  is_project_page: false
+title: [Let's stay connected]
+description: [I'm available on the below listed Social Media]
