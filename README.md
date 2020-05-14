@@ -5,8 +5,8 @@
 <summary>Latest videos</summary>
 <br>
 
-[What is a container? | 2 minutes | DEVOPS__GUY](https://www.youtube.com/watch?v=MmmW2s9uWhc)
-[Webpage on Github for free | 2 minutes | DEVOPS__GUY](https://youtu.be/7ignYIAocNQ)
+[What is a container? | 2 minutes | DEVOPS__GUY](https://www.youtube.com/watch?v=MmmW2s9uWhc)<br> 
+[Webpage on Github for free | 2 minutes | DEVOPS__GUY](https://youtu.be/7ignYIAocNQ)<br>
 
 <br>
 </details>
