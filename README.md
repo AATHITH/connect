@@ -11,8 +11,8 @@ Latest videos<br>
 ## [GitHub](https://github.com/aathith)
 ## [Medium](https://medium.com/@aathith2)
 Latest Posts<br>
-### [Sorting in Kubernetes, simplified!](https://medium.com/@aathith2/sorting-in-kubernetes-simplified-19e39d74bf12?source=friends_link&sk=3852cf5f3458d3630578672839178de9)
-### [A simple explanation of the Container](https://medium.com/@aathith2/a-simple-explanation-of-the-container-d3544b485c10?source=friends_link&sk=cfbb1175151dcf464e2206b0d94477c2)<br>
+[Sorting in Kubernetes, simplified!](https://medium.com/@aathith2/sorting-in-kubernetes-simplified-19e39d74bf12?source=friends_link&sk=3852cf5f3458d3630578672839178de9)<br>
+[A simple explanation of the Container](https://medium.com/@aathith2/a-simple-explanation-of-the-container-d3544b485c10?source=friends_link&sk=cfbb1175151dcf464e2206b0d94477c2)<br>
 
 ## [Blog](aathith.github.io/beta__me)
 
