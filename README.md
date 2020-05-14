@@ -1,7 +1,7 @@
 
 ## [LinkedIn](https://www.linkedin.com/in/aathith-rajendran/)
 ## [YouTube](https://www.youtube.com/channel/UCpLjvmEVR8chkRlvL5JLEhQ)
-<details open>
+<details>
 <summary>Latest videos</summary>
 <br>
 
@@ -16,12 +16,12 @@
 ## [Instagram-Personal](instagram.com/aathith_alfa)
 ## [GitHub](https://github.com/aathith)
 ## [Medium](https://medium.com/@aathith2)
-<details open>
+<details>
 <summary>Latest Posts</summary>
 <br>
 
-[Sorting in Kubernetes, simplified!](https://medium.com/@aathith2/sorting-in-kubernetes-simplified-19e39d74bf12?source=friends_link&sk=3852cf5f3458d3630578672839178de9)
-[A simple explanation of the Container](https://medium.com/@aathith2/a-simple-explanation-of-the-container-d3544b485c10?source=friends_link&sk=cfbb1175151dcf464e2206b0d94477c2)
+### [Sorting in Kubernetes, simplified!](https://medium.com/@aathith2/sorting-in-kubernetes-simplified-19e39d74bf12?source=friends_link&sk=3852cf5f3458d3630578672839178de9)
+### [A simple explanation of the Container](https://medium.com/@aathith2/a-simple-explanation-of-the-container-d3544b485c10?source=friends_link&sk=cfbb1175151dcf464e2206b0d94477c2)
 
 <br>
 </details>
