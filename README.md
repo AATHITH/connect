@@ -13,7 +13,6 @@
 
 ## [Twitter](https://twitter.com/devops__guy)
 ## [Instagram-Professional](instagram.com/devops__guy)
-## [Instagram-Personal](instagram.com/aathith_alfa)
 ## [GitHub](https://github.com/aathith)
 ## [Medium](https://medium.com/@aathith2)
 <details>
