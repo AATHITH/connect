@@ -6,6 +6,8 @@
 ## [GitHub](https://github.com/aathith)
 ## [Medium](https://medium.com/@aathith2)
 ## [Blog](aathith.github.io/beta__me)
+---
+<br>
 
 ### Latest
 Posts on MEDIUM:<br>
