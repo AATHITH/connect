@@ -2,10 +2,9 @@
 ## [LinkedIn](https://www.linkedin.com/in/aathith-rajendran/)
 ## [YouTube](https://www.youtube.com/channel/UCpLjvmEVR8chkRlvL5JLEhQ?sub_confirmation=1)
 ## [Twitter](https://twitter.com/devops__guy)
-## [Instagram-Professional](instagram.com/devops__guy)
 ## [GitHub](https://github.com/aathith)
 ## [Medium](https://medium.com/@aathith2)
-## [Blog](aathith.github.io/beta__me)
+
 ---
 <br>
 
